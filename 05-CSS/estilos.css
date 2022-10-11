@@ -1,0 +1,35 @@
+#color{
+    background-color: blueviolet;
+}
+#imagen{
+    background-image: url(/stranger_things_temporada_4_matt_ross_duffer.webp);
+}
+#colortext{
+    color: blue;
+}
+#parrafo1{
+    text-align: left;
+}
+#parrafo2{
+    text-align: right;
+}
+#parrafo3{
+    text-align: center;
+}
+#borde{
+    border-width: 80px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+table{
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
